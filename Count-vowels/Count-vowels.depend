@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529544954 source:e:\github\count-vowels\count-vowels\main.c
+	<stdio.h>
+	<stdlib.h>
+
